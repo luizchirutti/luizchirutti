@@ -21,7 +21,7 @@
   <img align="center" alt="Luiz-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Luiz-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Luiz-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Luiz-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/typescript-original.svg">
+  <img align="center" alt="Luiz-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   
 </div>
   
